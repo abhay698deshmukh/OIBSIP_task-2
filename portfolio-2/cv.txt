@@ -1,0 +1,9 @@
+**This my cv**
+Name: Abhay Deshmukh
+Schooling: 10th from freedom english School.
+College: 11 and 12th from Shri Shivaji Vidyalaya
+10th percentage: 94%
+12th percentage: 78%
+Current: Currently studying Third Year in B.E
+Languages: Java, Python, C
+SKills: Web Developer, App Developer, etc.
